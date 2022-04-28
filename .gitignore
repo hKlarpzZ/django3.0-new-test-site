@@ -1,12 +1,7 @@
 /venv/
 *.pdf
-<<<<<<< HEAD
 db.sqlite3
 /samplesite/__pycache__/
 current_page.txt
 /bboard/__pycache__/
 /bboard/migrations/
-=======
-/samplesite/__pycache__/
-db.sqlite3
->>>>>>> dd2cc8e1bab2da55aebff568de2003bff5e4dc8c
