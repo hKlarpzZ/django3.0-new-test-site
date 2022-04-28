@@ -1,2 +1,7 @@
 /venv/
 *.pdf
+db.sqlite3
+/samplesite/__pycache__/
+current_page.txt
+/bboard/__pycache__/
+/bboard/migrations/
