@@ -1,2 +1,4 @@
 /venv/
 *.pdf
+/samplesite/__pycache__/
+db.sqlite3
